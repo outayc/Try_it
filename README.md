@@ -1,5 +1,3 @@
-# Try_it
-何でも試してみよう
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -41,3 +39,4 @@
   </footer>
 </body>
 </html>
+
